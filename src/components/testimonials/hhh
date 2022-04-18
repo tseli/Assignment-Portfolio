@@ -1,0 +1,44 @@
+<article className="testimonial">
+          <div className="client__avatar">
+            <img src={AVR1} alt="Avatar one" />
+            </div>
+
+            <h5 className='client__name'>Ernest Achiever</h5>
+            <small className='client__review'>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, ipsa. Consectetur, assumenda laudantium. Suscipit aut similique corrupti sed atque nihil minus error blanditiis laboriosam? Fuga, perferendis voluptas! Reprehenderit, adipisci vitae.
+            </small>
+          
+        </article>
+        <article className="testimonial">
+          <div className="client__avatar">
+            <img src={AVR1} alt="Avatar one" />
+            </div>
+
+            <h5 className='client__name'>Ernest Achiever</h5>
+            <small className='client__review'>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, ipsa. Consectetur, assumenda laudantium. Suscipit aut similique corrupti sed atque nihil minus error blanditiis laboriosam? Fuga, perferendis voluptas! Reprehenderit, adipisci vitae.
+            </small>
+          
+        </article>
+        <article className="testimonial">
+          <div className="client__avatar">
+            <img src={AVR1} alt="Avatar one" />
+            </div>
+
+            <h5 className='client__name'>Ernest Achiever</h5>
+            <small className='client__review'>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, ipsa. Consectetur, assumenda laudantium. Suscipit aut similique corrupti sed atque nihil minus error blanditiis laboriosam? Fuga, perferendis voluptas! Reprehenderit, adipisci vitae.
+            </small>
+          
+        </article>
+        <article className="testimonial">
+          <div className="client__avatar">
+            <img src={AVR1} alt="Avatar one" />
+            </div>
+
+            <h5 className='client__name'>Ernest Achiever</h5>
+            <small className='client__review'>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, ipsa. Consectetur, assumenda laudantium. Suscipit aut similique corrupti sed atque nihil minus error blanditiis laboriosam? Fuga, perferendis voluptas! Reprehenderit, adipisci vitae.
+            </small>
+          
+        </article>
